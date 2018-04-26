@@ -1,4 +1,4 @@
-# vim-config
+# Vim Config
 
 <img src='Preview.png' />
 
