@@ -1,6 +1,6 @@
 # Vim Config
 
-<img src='Preview.png' />
+<img src="preview/Screenshot.png" />
 
 
 ## Requirements
